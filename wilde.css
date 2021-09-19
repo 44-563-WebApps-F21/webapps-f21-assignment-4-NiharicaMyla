@@ -2,7 +2,7 @@ body {
     background-color: lightblue;
   }
   h5 {color: black;font-family: Courier;font-size: 100%;}
-  p{color: black;font-family: Times;font-size: 90%;}
+  p.para1{color: black;font-family: Times;font-size: 90%;}
   p1:hover    {background-color: AliceBlue;color: black;font-family: Georgia;font-size: 90%;}
 
 .allonby {
