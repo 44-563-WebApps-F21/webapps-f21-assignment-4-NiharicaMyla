@@ -20,3 +20,28 @@ body {
   .hester {
     color: DarkOliveGreen;
   }
+
+  #Cast {
+    font-family: Georgia, Helvetica, sans-serif;
+      border: 3px solid brown;
+  width: 100%;
+  }
+  
+  #Cast tr {
+    border: 3px solid brown;
+    text-align: center;
+    padding: 3px;
+  }
+  
+  #Cast tr:nth-child(even){background-color: #87CEFA;}
+  #Cast tr:nth-child(odd){background-color: #FF69B4;}
+  #Cast tr:hover {background-color: #CD5C5C;}
+  
+  #Cast th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+      border: 1px solid brown;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+  }
