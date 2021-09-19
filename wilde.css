@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+  }
+  h5 {color: black;font-family: Courier;font-size: 60%;}
+  p{color: black;font-family: Times;font-size: 90%;}
+  p1:hover    {background-color: AliceBlue;color: black;font-family: Georgia;font-size: 90%;}
+
+.allonby {
+    color: olive;
+  }
+  .stutfield {
+    color: Beige;
+  }
+  .hunstanton{
+    color: Plum;
+  }
+  .caroline {
+    color: salmon;
+  }
+  .hester {
+    color: DarkOliveGreen;
+  }
