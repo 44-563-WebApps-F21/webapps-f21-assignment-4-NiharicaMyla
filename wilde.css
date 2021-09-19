@@ -5,19 +5,19 @@ body {
   p{color: black;font-family: Times;font-size: 90%;}
   p1:hover    {background-color: palevioletred;color: black;font-family: Georgia;font-size: 90%;}
 
-.allonby {
+.allonby:hover {
     color: olive;
   }
-  .stutfield {
+  .stutfield:hover {
     color: Maroon;
   }
-  .hunstanton{
+  .hunstanton:hover{
     color: Plum;
   }
-  .caroline {
+  .caroline:hover {
     color: salmon;
   }
-  .hester {
+  .hester:hover {
     color: DarkOliveGreen;
   }
 
@@ -51,6 +51,6 @@ body {
     color: white;
   }
 
-  h5 {
+  h5:hover {
     text-shadow: 2px 2px blue;
   }
