@@ -3,7 +3,7 @@ body {
   }
   h5 {color: black;font-family: Courier;font-size: 100%;}
   #speech{color: black;font-family: Times;font-size: 90%;}
-  #stage :hover    {background-color: palevioletred;color: black;font-family: Georgia;font-size: 90%;}
+  #stage.hover    {background-color: palevioletred;color: black;font-family: Georgia;font-size: 90%;}
 
 .allonby {
     color: olive;
