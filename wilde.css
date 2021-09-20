@@ -65,7 +65,7 @@ body {
     ul.navbar-horizontal li {
     float:left; /* line up horizontally */
     color:whitesmoke;
-    background-color:purple
+    background-color:yellow;
     }
     ul.navbar-horizontal a {
     display:block;
