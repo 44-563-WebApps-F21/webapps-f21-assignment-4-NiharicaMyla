@@ -70,5 +70,8 @@ body {
     ul.navbar-horizontal a {
     display:block;
     padding:8px
-    
+    }
+    ul.navbar-horizontal a:hover {
+        background-color: #555;
+        color:white;
     }
