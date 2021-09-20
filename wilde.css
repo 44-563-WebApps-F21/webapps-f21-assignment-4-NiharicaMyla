@@ -1,8 +1,8 @@
 body {
     background-color: whitesmoke;
   }
-  h5 {color: black;font-family: Courier;font-size: 100%;}
-  #speech {background-color: ivory;color: black;font-family: Times;font-size: 90%;}
+  #names {color: black;font-family: Courier;font-size: 100%;}
+  #speech {color: black;font-family: Times;font-size: 90%;}
   p1:hover    {background-color: palevioletred;color: black;font-family: Georgia;font-size: 90%;}
 
 .allonby {
