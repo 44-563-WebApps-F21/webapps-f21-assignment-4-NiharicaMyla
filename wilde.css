@@ -52,5 +52,5 @@ body {
   }
 
   h5:hover {
-    text-shadow: 2px 2px blue;
+    text-shadow: 2px 2px 5px red;
   }
