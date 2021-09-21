@@ -1,24 +1,24 @@
 body {
     background-color: whitesmoke;
   }
-  #names {color: black;font-family: Courier;font-size: 100%;}
+  
   #speech {color: black;font-family: Times;font-size: 90%;}
   #p1:hover    {background-color: palevioletred;color: black;font-family: Georgia;font-size: 90%;}
 
 .allonby{
-    color:olive
+    color:olive;font-family: Courier;font-size: 100%;
   }
   .stutfield{
-    color:Maroon
+    color:Maroon;font-family: Courier;font-size: 100%;
   }
   .hunstanton{
-    color:Plum
+    color:Plum;font-family: Courier;font-size: 100%;
   }
   .caroline{
-    color:salmon
+    color:salmon;font-family: Courier;font-size: 100%;
   }
   .hester{
-    color:DarkOliveGreen
+    color:DarkOliveGreen;font-family: Courier;font-size: 100%;
   }
 
   #Cast {
