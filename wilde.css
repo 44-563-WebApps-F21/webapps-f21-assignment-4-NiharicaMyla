@@ -58,13 +58,13 @@ body {
 
  
   ul.navbar-horizontal {
-   
+    list-style-type: none;
     margin: 20;
     padding: 20;
     }
     ul.navbar-horizontal li {
     float:left; 
-    
+    color:whitesmoke;
     border: 2px solid rebeccapurple;
     background-color:yellow;
     }
