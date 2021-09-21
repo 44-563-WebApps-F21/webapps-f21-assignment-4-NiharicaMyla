@@ -59,7 +59,6 @@ body {
   ul.navbar-horizontal {
     /* remove these */
     list-style-type: none;
-    width: 200px;
     border: 2px solid blue;
     margin: 0;
     padding: 0;
