@@ -3,7 +3,7 @@ body {
   }
   
   #speech {color: black;font-family: Times;font-size: 90%;}
-  #p1:hover    {background-color: palevioletred;color: black;font-family: Georgia;font-size: 90%;}
+  #p1:hover    {background-color:lightcoral;color: black;font-family: Georgia;font-size: 90%;}
 
 .allonby{
     color:olive;font-family: Courier;font-size: 100%;
@@ -18,7 +18,7 @@ body {
     color:salmon;font-family: Courier;font-size: 100%;
   }
   .hester{
-    color:DarkOliveGreen;font-family: Courier;font-size: 100%;
+    color:lightgreen;font-family: Courier;font-size: 100%;
   }
 
   #Cast {
